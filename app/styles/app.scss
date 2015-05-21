@@ -1,0 +1,10 @@
+$background-color: gray;
+$component-background-color: white;
+
+@import "pod-styles";
+
+body {
+  background: $background-color;
+  font-family: sans-serif;
+  padding: 50px;
+}
